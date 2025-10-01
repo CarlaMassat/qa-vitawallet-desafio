@@ -1,0 +1,19 @@
+# Ignorar carpetas de entorno virtual y Pycharm
+.venv/
+.idea/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de entorno/env
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs o temporales
+*.log
