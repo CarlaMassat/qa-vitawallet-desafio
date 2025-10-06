@@ -17,3 +17,7 @@ Thumbs.db
 
 # Archivos de logs o temporales
 *.log
+
+# Ignorar carpeta de APKs y archivos .apk
+app/
+*.apk
